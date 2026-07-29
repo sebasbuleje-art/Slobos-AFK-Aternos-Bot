@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "la_garrapata",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "thebandserver.aternos.me",
