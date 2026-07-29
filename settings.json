@@ -8,7 +8,7 @@
   "server": {
     "ip": "thebandserver.aternos.me",
     "port":37370,
-    "version": "1.8",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
